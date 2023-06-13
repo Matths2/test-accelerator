@@ -1,7 +1,12 @@
 accelerator:
-  displayName: Simple Accelerator
-  description: Contains just a README
-  iconUrl: https://images.freecreatives.com/wp-content/uploads/2015/05/smiley-559124_640.jpg
+  displayName: Friends Angular Accelerator
+  description: Friends project base configuration for frontend
+  iconUrl: https://friends.se/uploads/2022/05/friends_logo_rod_footer2-1024x385.png
   tags:
   - simple
   - getting-started
+  - Angular
+  - ESlint
+  - Prettier
+  - OpenAPI generator
+
